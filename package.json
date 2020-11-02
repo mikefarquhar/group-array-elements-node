@@ -1,7 +1,7 @@
 {
-  "name": "test",
+  "name": "group-array-elements-node",
   "version": "1.0.0",
-  "description": "",
+  "description": "Group the contents of an array into chunks of equal size.",
   "main": "index.js",
   "scripts": {
     "test": "jest",
